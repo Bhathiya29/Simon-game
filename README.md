@@ -3,7 +3,7 @@
  
 • The Simon game is a game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It has a fast-paced play   with lights and sounds which makes the game challenging to keep up with the patterns although the game was challenging since I was new to programming the outcome was worth it.
 
-• I made this simon game using Html,Css and Javascript and four sound files have been used for the four different colours and also a sound file has been used to make the sound       when the click on the box does not match (wrong click) 
+• I made this simon game using Html,Css,jquery and Javascript and four sound files have been used for the four different colours and also a sound file has been used to make the sound when the click on the box does not match (wrong click) 
 
 • Html was used to make the structure and Css was for the styling. Java script part was the challenging part in this project, keypress and click was used to understand the users     behaviour and functions was used for checking the answer,next sequence,animate when pressed and to make play the sound
 
